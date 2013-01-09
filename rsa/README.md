@@ -13,6 +13,7 @@ Experimental code - don't use it!
 
 **Math-Ressources:**
 * http://en.wikipedia.org/wiki/Integer_factorization
+* http://en.wikipedia.org/wiki/Discrete_logarithm
 * Challenge: http://www.rsa.com/rsalabs/node.asp?id=2093
 * http://events.ccc.de/congress/2012/Fahrplan/events/5275.en.html
 
@@ -21,3 +22,4 @@ Experimental code - don't use it!
 
 **Follow-up Ressources:**
 * http://en.wikipedia.org/wiki/Optimal_asymmetric_encryption_padding
+* http://en.wikipedia.org/wiki/Shor%27s_algorithm
